@@ -1,0 +1,92 @@
+.search {
+    display: flex;
+    align-items: center;
+  }
+  .main{
+    padding-left: 340px;
+    height: 500px;
+    padding-top: 100px;
+
+  }
+  
+  .h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+    padding-left: 170px;
+    padding-bottom: 50px;
+   
+  }
+  .search{
+    padding: 12px;
+    padding-right: 100px;
+    margin-right: 10px;
+  }
+  .search-field {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .search-button {
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background-color: #555;
+  }
+  .nav{
+    padding-bottom: 40px;
+    height: 100px;
+   width: 100%; 
+}
+.na{
+    padding: 14px 16px;
+    padding-bottom: 150px;
+    /* position: fixed; */
+}
+.sign{
+    padding-left: 500px;
+}
+.create{
+    padding-left: 50px;
+}
+
+.navbar {
+    background-color: #333;
+    padding: 10px;
+
+  }
+  
+  .nav-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin: 10;
+    padding: 0;
+  }
+  
+  .nav-item {
+    margin: 0 10px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+  }
+  
+  .nav-link:hover {
+    background-color: #555;
+  }
+  .glassmorphism {
+    width: 400px;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(245, 13, 91, 0.37);
+    backdrop-filter: blur(15px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+  }
